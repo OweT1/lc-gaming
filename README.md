@@ -11,6 +11,7 @@ Repo of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,10 +21,12 @@ Repo of LeetCode questions
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +39,8 @@ Repo of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
