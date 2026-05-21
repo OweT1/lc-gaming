@@ -15,7 +15,7 @@ class Trie:
                 temp.children[c] = Node()
             temp = temp.children[c]
         
-        temp.is_end = True
+        temp.is_end = True # not necessary for this question
 
     def get_max_length(self, word: str) -> int:
         temp = self.node
@@ -28,8 +28,6 @@ class Trie:
             temp = temp.children[c]
             m += 1
         return m
-            
-
 
 class Solution:
     def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
