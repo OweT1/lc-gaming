@@ -1,5 +1,7 @@
 # lc-gaming
-Repo of LeetCode questions
+Repo of LeetCode questions.
+
+LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
