@@ -20,8 +20,6 @@ class Solution:
                 next_task = heapq.heappop(pq)
                 if next_task[0] < 0:
                     cooldown_tasks[next_task] = n
-            else:
-                print(intervals, "skip")
         return intervals-1
         
         
