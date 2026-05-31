@@ -1,5 +1,7 @@
 class Solution:
-    def get_neighbours(self, r: int, c: int, rows: int, cols: int, visited: List[List[int]]) -> List[Tuple[int]]:
+    def get_neighbours(
+        self, r: int, c: int, rows: int, cols: int, visited: List[List[int]]
+    ) -> List[Tuple[int]]:
         directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
         valid_neighbours = []
         for d in directions:
