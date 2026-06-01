@@ -18,12 +18,9 @@ class Solution:
             return -1
 
         while rotten:
-            print(time, rotten)
             new_rotten = set()
             has_visits = False
             for t_r, t_c in rotten:
-                print(t_r, t_c)
-                print(visited)
                 if not visited[t_r][t_c]:
                     has_visits = True
                     directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
@@ -39,9 +36,8 @@ class Solution:
                         ):
                             new_rotten.add((n_r, n_c))
                     visited[t_r][t_c] = 1
-                print(visited)
             rotten = new_rotten
-            if has_visits:
+            if has_visits: # only add time if there were additional visits
                 time += 1
         
         for r, c in fresh:
