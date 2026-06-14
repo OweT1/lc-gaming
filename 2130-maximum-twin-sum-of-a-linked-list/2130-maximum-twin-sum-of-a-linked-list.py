@@ -15,7 +15,6 @@ class Solution:
         output = 0
         while slow:
             output = max(output, slow.val + prev.val)
-            slow = slow.next
-            prev = prev.next
+            slow, prev = slow.next, prev.next
         return output
         
