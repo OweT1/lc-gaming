@@ -53,6 +53,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -130,4 +131,12 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
