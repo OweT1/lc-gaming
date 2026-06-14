@@ -14,6 +14,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/OweT1/lc-gaming/tree/main/0006-zigzag-conversion/) | Medium |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
@@ -23,6 +24,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 ## Array
@@ -50,6 +52,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
