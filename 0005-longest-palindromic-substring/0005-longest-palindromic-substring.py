@@ -11,10 +11,9 @@ class Solution:
                 if s[i-diff] == s[i+diff]:
                     centre1 = s[i-diff] + centre1 + s[i+diff]
                     diff += 1
-                else:
-                    break
+                    continue
+                break
             if len(centre1) > max_len:
-                max_len = len(centre1)
                 max_str = centre1
 
             if len(centre2) == 2 and centre2[0] == centre2[1]:
@@ -23,14 +22,11 @@ class Solution:
                     if s[i-diff] == s[i+diff+1]:
                         centre2 = s[i-diff] + centre2 + s[i+diff+1]
                         diff += 1
-                    else:
-                        break
+                        continue
+                    break
                 
-                if len(centre2) > max_len:
-                    max_len = len(centre2)
+                if len(centre2) > len(max_str):
                     max_str = centre2
-            print(i, centre1, centre2)
-            
-            
+            max_len = len(max_str)
         return max_str
         
