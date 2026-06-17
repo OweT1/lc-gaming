@@ -17,9 +17,7 @@ class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         arrs = [[n] for n in nums]
         while len(arrs) > 1:
-            # print(arrs)
             arrs = [self.mergeArray(arrs[i], [] if i == len(arrs) - 1 else arrs[i+1]) for i in range(0, len(arrs), 2)]
-            # print(arrs)
         return arrs[0]
 
         
