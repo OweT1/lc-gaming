@@ -1,17 +1,22 @@
 class Solution:
     def mergeArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
         res = []
-        dq1, dq2 = deque(arr1), deque(arr2)
-        while dq1 and dq2:
-            if dq1[0] < dq2[0]:
-                res.append(dq1.popleft())
+        p1, p2 = 0, 0
+        n1, n2 = len(arr1), len(arr2)
+        while p1 < n1 and p2 < n2:
+            if arr1[p1] < arr2[p2]:
+                res.append(arr1[p1])
+                p1 += 1
             else:
-                res.append(dq2.popleft())
+                res.append(arr2[p2])
+                p2 += 1
         
-        while dq1:
-            res.append(dq1.popleft())
-        while dq2:
-            res.append(dq2.popleft())
+        while p1 < n1:
+            res.append(arr1[p1])
+            p1 += 1
+        while p2 < n2:
+            res.append(arr2[p2])
+            p2 += 1
         return res
 
     def sortArray(self, nums: List[int]) -> List[int]:
