@@ -34,6 +34,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -66,6 +67,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
@@ -125,6 +127,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
