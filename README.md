@@ -30,11 +30,13 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -123,6 +125,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
