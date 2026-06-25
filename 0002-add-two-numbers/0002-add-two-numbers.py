@@ -16,20 +16,25 @@ class Solution:
 
             l1 = l1.next
             l2 = l2.next
+
         while l1 is not None:
             output.next = ListNode()
             output = output.next
             v = l1.val + overflow
             output.val = v % 10
             overflow = v // 10
+
             l1 = l1.next
+
         while l2 is not None:
             output.next = ListNode()
             output = output.next
             v = l2.val + overflow 
             output.val = v % 10
             overflow = v // 10
+
             l2 = l2.next
+            
         if overflow:
             output.next = ListNode(overflow)
         return head.next
