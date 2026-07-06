@@ -8,19 +8,10 @@ public:
             return a[0] <= b[0];
         });
 
-        int res = 0;
-        for (int i=0; i<intervals.size(); i++) {
-            vector<int> curr = intervals[i];
-            // for (int k: curr) std::cout << k << " ";
-            for (int j=0; j<i; j++) {
-                vector<int> cmp = intervals[j];
-                if (curr[0] >= cmp[0] && curr[1] <= cmp[1]) {
-                    res--;
-                    break;
-                }
-            }
-            res++;
-            // std::cout << "\n";
+        int res = 0, r = 0;
+        for (vector<int> x: intervals) {
+            res += x[1] > r;
+            r = max(r, x[1]);
         }
 
         return res;
