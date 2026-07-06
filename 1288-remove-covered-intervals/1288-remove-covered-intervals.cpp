@@ -10,8 +10,8 @@ public:
         for (vector<int> x: intervals) {
             res += x[1] > r;
             r = max(r, x[1]);
-            for (int k: x) std::cout << k << " ";
-            std::cout << "\n";
+            // for (int k: x) std::cout << k << " ";
+            // std::cout << "\n";
         }
 
         return res;
