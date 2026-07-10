@@ -5,7 +5,6 @@ class Solution:
         for i in range(1, n):
             component_groups[i] = component_groups[i-1] + (1 if nums[i] - nums[i-1] > maxDiff else 0)
 
-        print(component_groups)
         res = []
         for u, v in queries:
             res.append(component_groups[u] == component_groups[v])
