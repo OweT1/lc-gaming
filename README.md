@@ -29,6 +29,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/OweT1/lc-gaming/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +211,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
