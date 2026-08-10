@@ -44,6 +44,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
@@ -96,6 +97,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -186,6 +188,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
