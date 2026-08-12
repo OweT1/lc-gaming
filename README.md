@@ -56,6 +56,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
@@ -146,6 +147,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,4 +270,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 <!---LeetCode Topics End-->
