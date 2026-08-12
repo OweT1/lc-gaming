@@ -4,7 +4,7 @@ class Solution:
         n_rows, n_cols = len(board), len(board[0])
 
         visited = [[0]*n_cols for _ in range(n_rows)]
-        
+
         res = 0
         for r in range(n_rows):
             for c in range(n_cols):
@@ -25,7 +25,6 @@ class Solution:
                                 queue.append((new_r, new_c))
                                 visited[new_r][new_c] = 1
                     res += 1
-                    print()
         return res
 
 
