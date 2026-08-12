@@ -4,8 +4,7 @@ class Solution:
         n_rows, n_cols = len(board), len(board[0])
 
         visited = [[0]*n_cols for _ in range(n_rows)]
-        for b in board:
-            print(b)
+        
         res = 0
         for r in range(n_rows):
             for c in range(n_cols):
