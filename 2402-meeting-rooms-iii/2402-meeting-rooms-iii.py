@@ -18,7 +18,7 @@ class Solution:
                     heapq.heappush(busy, b_room)
                     break
 
-            # Take from free meeting rooms
+            # Take from free meeting rooms first
             if free:
                 f_room = heapq.heappop(free)
                 heapq.heappush(busy, (end, f_room))
@@ -31,9 +31,7 @@ class Solution:
                 room_counter[room] += 1
 
         max_room_booking = max(room_counter)
-        for i, c in enumerate(room_counter):
-            if c == max_room_booking:
-                return i
+        return room_counter.index(max_room_booking)
                 
                     
 
