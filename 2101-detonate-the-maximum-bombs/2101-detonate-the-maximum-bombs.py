@@ -1,12 +1,12 @@
 class Solution:
     def maximumDetonation(self, bombs: List[List[int]]) -> int:
-        edge_list = [[0]* len(bombs) for _ in range(len(bombs))]
+        edge_dict = defaultdict(list)
         
         for i, origin in enumerate(bombs):
             for j, dest in enumerate(bombs):
-                if i != j:
-                    if math.pow(math.pow(dest[0] - origin[0], 2) + math.pow(dest[1] - origin[1], 2), 1/2) <= origin[2]:
-                        edge_list[i][j] = 1
+                if i != j:  
+                    if math.pow(dest[0] - origin[0], 2) + math.pow(dest[1] - origin[1], 2) <= math.pow(origin[2], 2):
+                        edge_dict[i].append(j)
         
         max_bombs = 0
         for i, bomb in enumerate(bombs):
@@ -16,9 +16,9 @@ class Solution:
 
             while explode_bombs:
                 b, to_explode = explode_bombs.pop()
-                bombs_in_range = edge_list[b]
-                for j, within_range in enumerate(bombs_in_range):
-                    if within_range and not visited[j]:
+                bombs_in_range = edge_dict[b]
+                for j in bombs_in_range:
+                    if not visited[j]:
                         visited[j] = 1
                         explode_bombs.append((j, bombs[j]))
             
