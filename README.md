@@ -73,6 +73,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OweT1/lc-gaming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -91,6 +92,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OweT1/lc-gaming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -126,6 +128,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OweT1/lc-gaming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
@@ -146,6 +149,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +237,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/OweT1/lc-gaming/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
