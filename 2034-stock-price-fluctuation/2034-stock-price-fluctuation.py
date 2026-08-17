@@ -3,27 +3,40 @@ class StockPrice:
     def __init__(self):
         self.records = {}
         self.latest_timestamp = 0
-        self.prices = []
+        self.min_prices = []
+        self.max_prices = []
 
     def update(self, timestamp: int, price: int) -> None:
-        if timestamp in self.records:
-            curr_price = self.records[timestamp]
-            pos = bisect.bisect_left(self.prices, (curr_price, timestamp))
-            self.prices.pop(pos)
-
         self.records[timestamp] = price
         self.latest_timestamp = max(self.latest_timestamp, timestamp)
-        pos = bisect.bisect_left(self.prices, (price, timestamp))
-        self.prices.insert(pos, (price, timestamp))
+        
+        heapq.heappush(self.min_prices, (price, timestamp))
+        heapq.heappush(self.max_prices, (-price, timestamp))
 
     def current(self) -> int:
         return self.records[self.latest_timestamp]
 
     def maximum(self) -> int:
-        return self.prices[-1][0]
+        price, timestamp = heapq.heappop(self.max_prices)
+        updated_price = self.records[timestamp]
+        
+        while -price != updated_price:
+            price, timestamp = heapq.heappop(self.max_prices)
+            updated_price = self.records[timestamp]
+        
+        heapq.heappush(self.max_prices, (price, timestamp))
+        return -price
 
     def minimum(self) -> int:
-        return self.prices[0][0]
+        price, timestamp = heapq.heappop(self.min_prices)
+        updated_price = self.records[timestamp]
+        
+        while price != updated_price:
+            price, timestamp = heapq.heappop(self.min_prices)
+            updated_price = self.records[timestamp]
+
+        heapq.heappush(self.min_prices, (price, timestamp))
+        return price
         
 
 
