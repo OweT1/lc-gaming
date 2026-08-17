@@ -5,7 +5,6 @@ class MyCalendar:
 
     def book(self, startTime: int, endTime: int) -> bool:    
         pos = bisect.bisect_left(self.bookings, (startTime, endTime))
-        print(pos)
         if self.bookings and \
             (
                 (pos > 0 and startTime < self.bookings[pos-1][1]) or \
