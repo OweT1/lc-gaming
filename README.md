@@ -11,6 +11,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/OweT1/lc-gaming/tree/main/0009-palindrome-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/OweT1/lc-gaming/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -27,6 +28,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -60,6 +62,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
@@ -122,6 +125,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
