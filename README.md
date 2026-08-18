@@ -29,6 +29,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -45,6 +46,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -71,6 +73,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/OweT1/lc-gaming/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -97,6 +100,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -112,6 +116,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
@@ -134,6 +139,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
