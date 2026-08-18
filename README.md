@@ -29,6 +29,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -44,6 +45,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Array
@@ -338,4 +340,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
