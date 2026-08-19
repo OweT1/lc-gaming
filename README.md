@@ -75,6 +75,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/OweT1/lc-gaming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -103,6 +104,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
@@ -196,6 +198,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
@@ -350,4 +353,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
