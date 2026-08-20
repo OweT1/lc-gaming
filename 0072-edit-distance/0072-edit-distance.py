@@ -1,23 +1,23 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        distance_mapping = []
-        distance_mapping.append([i for i in range(len(word1)+1)])
-        for i in range(1, len(word2)+1):
-            distance_mapping.append([i] + [-1 for _ in range(len(word1))])
+        n, m = len(word1), len(word2)
+        dp = [list(range(n+1))]
+        for i in range(1,m+1):
+            dp.append([i] + [-1]*n)
 
-        # define key logic
-        def helper(i: int, j: int) -> int:
-            if distance_mapping[j][i] != -1: # if it exists and is valid, return
-                return distance_mapping[j][i]
- 
-            if word1[i-1] == word2[j-1]:
-                distance_mapping[j][i] = helper(i-1, j-1)
-                return distance_mapping[j][i]
+        def dfs(i: int, j: int):
+            if dp[i][j] != -1: return dp[i][j]
+            if word1[j-1] == word2[i-1]:
+                dp[i][j] = dfs(i-1, j-1)
+                return dp[i][j]
             else:
-                distance_mapping[j][i] = 1 + min(
-                    helper(i-1, j-1),
-                    helper(i, j-1),
-                    helper(i-1, j)
+                dp[i][j] = 1 + min(
+                    dfs(i-1, j-1),
+                    dfs(i-1, j),
+                    dfs(i, j-1)
                 )
-                return distance_mapping[j][i]
-        return helper(len(word1), len(word2))
+                return dp[i][j]
+
+        dfs(m, n)
+        return dp[-1][-1]
+        
