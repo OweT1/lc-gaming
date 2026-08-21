@@ -51,6 +51,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Array
@@ -159,6 +160,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
@@ -418,4 +420,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 <!---LeetCode Topics End-->
