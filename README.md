@@ -37,6 +37,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/OweT1/lc-gaming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -93,6 +94,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -119,6 +121,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -165,6 +168,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OweT1/lc-gaming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -391,6 +395,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 ## Persistent Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
