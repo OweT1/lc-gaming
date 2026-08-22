@@ -16,6 +16,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/OweT1/lc-gaming/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/OweT1/lc-gaming/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/OweT1/lc-gaming/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OweT1/lc-gaming/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OweT1/lc-gaming/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
