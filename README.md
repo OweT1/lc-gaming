@@ -76,6 +76,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -117,6 +118,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
@@ -252,6 +254,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -262,6 +265,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
+| [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -374,6 +378,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
