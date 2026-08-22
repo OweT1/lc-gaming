@@ -250,6 +250,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
+| [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
@@ -260,6 +261,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
+| [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -344,6 +346,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -427,6 +430,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
