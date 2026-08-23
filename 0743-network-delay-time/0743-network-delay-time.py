@@ -1,23 +1,28 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        adjacencyList = {}
-        for u, v, w in times:
-            if u not in adjacencyList:
-                adjacencyList[u] = {}
-            adjacencyList[u][v] = w
- 
-        distances = {i: math.inf for i in range(1, n+1)}
-        distances[k] = 0
+        dists = [math.inf if i != k-1 else 0 for i in range(n)]
+        neighbours = {}
+        visited = {k}
+        for time in times:
+            u, v, w = time
+            if u not in neighbours:
+                neighbours[u] = {}
+            neighbours[u][v] = w
+            visited.add(v)
+        
+        if len(visited) != n: return -1
+        
+        queue = [(0, k)]
+        while queue:
+            curr_dist, ele = queue.pop()
+            if curr_dist > dists[ele-1] or ele not in neighbours: continue
+            neighbour = neighbours[ele]
+            for v, w in neighbour.items():
+                if curr_dist + w < dists[v-1]:
+                    dists[v-1] = curr_dist + w
+                    queue.append((dists[v-1], v))
+        print(dists)
+        return max(dists)
 
-        pq = [(0, k)]
-        visited = set()
-        while pq:
-            dist, node = heapq.heappop(pq)
-            if dist > distances[node] or node not in adjacencyList: continue
-            for neighbour_node, neighbour_weight in adjacencyList[node].items():
-                new_distance = neighbour_weight + dist
-                if new_distance < distances[neighbour_node]:
-                    distances[neighbour_node] = new_distance
-                    visited.add(neighbour_node)
-                    heapq.heappush(pq, (new_distance, neighbour_node))
-        return -1 if len(visited) != n-1 else max(distances.values())
+
+        
