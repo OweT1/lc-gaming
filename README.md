@@ -58,6 +58,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -218,6 +219,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
@@ -280,6 +282,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Breadth-First Search
@@ -292,6 +295,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Union-Find
@@ -381,6 +385,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -456,6 +461,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
