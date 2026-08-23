@@ -86,6 +86,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
+| [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -170,6 +171,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
+| [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -201,6 +203,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
@@ -314,6 +317,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -336,6 +340,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
+| [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/OweT1/lc-gaming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
