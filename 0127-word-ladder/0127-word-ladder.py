@@ -29,8 +29,6 @@ class Solution:
         turn = 1
         candidates = set([word for word in wordList if self.is_linked(beginWord, word)])
         while nearest:
-            print(nearest)
-            
             temp = []
             for node in nearest:
                 if node == beginWord:
@@ -41,11 +39,6 @@ class Solution:
                 if node not in neighbours: continue
 
                 for n in neighbours[node]:
-                    # if n == beginWord:
-                    #     return turn
-                    # if n in candidates:
-                    #     return turn + 1
-                    
                     if n not in visited:
                         temp.append(n)
                         visited.add(n)
