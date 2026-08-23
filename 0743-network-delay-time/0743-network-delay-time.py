@@ -11,7 +11,7 @@ class Solution:
             visited.add(v)
         
         if len(visited) != n: return -1
-        
+
         queue = [(0, k)]
         while queue:
             curr_dist, ele = queue.pop()
@@ -21,7 +21,6 @@ class Solution:
                 if curr_dist + w < dists[v-1]:
                     dists[v-1] = curr_dist + w
                     queue.append((dists[v-1], v))
-        print(dists)
         return max(dists)
 
 
