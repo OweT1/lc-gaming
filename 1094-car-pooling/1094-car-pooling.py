@@ -1,15 +1,17 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        exit_pq = []
-        curr = 0
-        for trip in sorted(trips, key=lambda x: x[1]):
+        events = []
+        for trip in trips:
             p, f, t = trip
-            while exit_pq and exit_pq[0][0] <= f:
-                curr -= heapq.heappop(exit_pq)[1]
-            
+            events.append((f, p))
+            events.append((t, -p))
+
+        curr = 0
+        for e in sorted(events):
+            _, p = e
             curr += p
-            if curr > capacity: return False
-            heapq.heappush(exit_pq, (t, p))
+            if curr > capacity:
+                return False
 
         return True
 
