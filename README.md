@@ -11,6 +11,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/OweT1/lc-gaming/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -317,6 +318,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OweT1/lc-gaming/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
+| [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -389,6 +391,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
@@ -475,4 +478,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
