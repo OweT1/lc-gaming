@@ -42,10 +42,9 @@ class Solution:
         
         for w in words:
             trie.insert(w)
-        max_len, res = 0, ""
+        res = ""
         for w in words:
-            if trie.findExact(w) and (len(w) > max_len or (len(w) == max_len and w < res)):
+            if trie.findExact(w) and (len(w) > len(res) or (len(w) == len(res) and w < res)):
                 res = w
-                max_len = len(w)
         return res
         
