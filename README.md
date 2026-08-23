@@ -31,6 +31,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
+| [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/OweT1/lc-gaming/tree/main/0720-longest-word-in-dictionary/) | Medium |
@@ -124,6 +125,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OweT1/lc-gaming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -283,6 +285,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
@@ -487,4 +490,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
