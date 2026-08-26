@@ -47,6 +47,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OweT1/lc-gaming/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/OweT1/lc-gaming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -382,6 +383,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OweT1/lc-gaming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OweT1/lc-gaming/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/OweT1/lc-gaming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Recursion
