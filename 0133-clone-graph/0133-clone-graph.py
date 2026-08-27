@@ -14,9 +14,9 @@ class Solution:
         nodes = {}
         processed = set()
         dq = collections.deque([node])
+
         while dq:
             n = dq.popleft()
-            # print(n.val, n.neighbors)
             n_val, n_nb = n.val, n.neighbors
 
             new_nb = []
@@ -24,6 +24,7 @@ class Solution:
                 new_node = nodes.get(nb.val, Node(nb.val))
                 nodes[nb.val] = new_node
                 new_nb.append(new_node)
+
                 if nb.val not in processed:
                     dq.append(nb)
                     processed.add(nb.val)
