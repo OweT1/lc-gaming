@@ -276,6 +276,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/OweT1/lc-gaming/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
@@ -353,6 +354,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/OweT1/lc-gaming/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
