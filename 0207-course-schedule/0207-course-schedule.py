@@ -18,6 +18,5 @@ class Solution:
                 if in_deg[nb] == 0:
                     dq.append(nb)
             coursesTaken += 1
-        
         return coursesTaken == numCourses
         
