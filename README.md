@@ -290,6 +290,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
@@ -305,6 +306,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
@@ -404,6 +406,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -496,11 +499,13 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
