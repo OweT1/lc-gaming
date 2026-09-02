@@ -293,6 +293,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
@@ -438,12 +439,14 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -531,4 +534,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
