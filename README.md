@@ -65,6 +65,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
@@ -89,6 +90,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
