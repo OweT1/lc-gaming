@@ -177,6 +177,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -201,6 +202,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
@@ -238,6 +240,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
@@ -291,6 +294,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/OweT1/lc-gaming/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
@@ -486,6 +490,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2013-detect-squares](https://github.com/OweT1/lc-gaming/tree/main/2013-detect-squares/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Longest Common Subsequence
