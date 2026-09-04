@@ -3,8 +3,6 @@ class Solution:
         res = -math.inf
         curr = 0
         for num in nums:
-            curr += num
+            curr = max(num, curr + num)
             res = max(res, curr)
-            if curr < 0:
-                curr = 0
         return res
