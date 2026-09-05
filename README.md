@@ -135,6 +135,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/OweT1/lc-gaming/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/OweT1/lc-gaming/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/OweT1/lc-gaming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2013-detect-squares](https://github.com/OweT1/lc-gaming/tree/main/2013-detect-squares/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +397,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +415,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/OweT1/lc-gaming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/OweT1/lc-gaming/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +493,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
