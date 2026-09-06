@@ -116,6 +116,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/OweT1/lc-gaming/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -196,6 +197,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OweT1/lc-gaming/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
@@ -253,6 +255,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Bucket Sort
@@ -320,6 +323,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Breadth-First Search
@@ -336,6 +340,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -344,6 +349,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -353,6 +359,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -524,6 +531,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
