@@ -1,14 +1,24 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = [math.inf] * (amount+1)
-        dp[0] = 0
+        cache = {}
 
-        for i in range(1, amount+1):
+        def solve(curr: int):
+            if curr < 0: return -1
+            if curr == 0: return 0
+            if curr in cache: return cache[curr]
+
+            res = math.inf
             for coin in coins:
-                if i-coin >= 0:
-                    dp[i] = min(dp[i], dp[i-coin]+1)
-        
-        return dp[amount] if dp[amount] != math.inf else -1
+                temp = solve(curr-coin)
+                if temp != -1:
+                    res = min(res, temp+1)
+            
+            cache[curr] = res if res != math.inf else -1
+            return cache[curr]
+
+        return solve(amount)
+
+       
 
 
 
