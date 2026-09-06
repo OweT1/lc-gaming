@@ -80,6 +80,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/OweT1/lc-gaming/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
@@ -371,6 +372,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OweT1/lc-gaming/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/OweT1/lc-gaming/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
