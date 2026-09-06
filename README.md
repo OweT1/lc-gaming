@@ -35,6 +35,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
@@ -64,6 +65,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -87,6 +89,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -146,6 +149,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -230,6 +234,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/OweT1/lc-gaming/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -554,6 +559,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -575,4 +581,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
