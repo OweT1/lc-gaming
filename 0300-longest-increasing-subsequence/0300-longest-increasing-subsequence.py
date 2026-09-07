@@ -6,8 +6,7 @@ class Solution:
         dp = [math.inf] * n
         dp[0] = 1
         for i in range(1, n):
-            indices = [j for j, num in enumerate(nums[:i]) if nums[i] > num]
-            indices_dp = [dp[j] for j in indices]
+            indices_dp = [dp[j] for j, num in enumerate(nums[:i]) if nums[i] > num]
             dp[i] = 1 if not indices_dp else max(indices_dp) + 1
         return max(dp)
 
