@@ -6,7 +6,6 @@ class Solution:
         res = None
 
         while r < len(s):
-            print('start', l, r)
             c = s[r]
             if c not in sliding_counter:
                 sliding_counter[c] = 0
