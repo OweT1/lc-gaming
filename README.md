@@ -68,6 +68,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -97,6 +98,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -197,6 +199,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
@@ -598,4 +601,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
