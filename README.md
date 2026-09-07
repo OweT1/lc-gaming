@@ -9,6 +9,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/OweT1/lc-gaming/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/OweT1/lc-gaming/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
