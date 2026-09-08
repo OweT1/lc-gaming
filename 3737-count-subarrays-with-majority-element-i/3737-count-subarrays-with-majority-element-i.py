@@ -1,14 +1,22 @@
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
         n = len(nums)
-        prefix = [0]*(n+1)
-
-        for i in range(1, n+1):
-            prefix[i] = prefix[i-1] + (1 if nums[i-1] == target else -1)
         
+        pre = [0] * (2*n + 1)
+        pre[n] = 1
+
+        pre_sum = 0
+        curr = n
         res = 0
-        for i in range(n):
-            for j in range(i, n):
-                if prefix[j+1] - prefix[i] > 0:
-                    res += 1
+
+        for num in nums:
+            if num == target:
+                pre_sum += pre[curr]
+                curr += 1
+                pre[curr] += 1
+            else:
+                curr -= 1
+                pre_sum -= pre[curr]
+                pre[curr] += 1
+            res += pre_sum
         return res
