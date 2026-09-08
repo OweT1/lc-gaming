@@ -11,6 +11,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/OweT1/lc-gaming/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/OweT1/lc-gaming/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/OweT1/lc-gaming/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/OweT1/lc-gaming/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -68,6 +69,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/OweT1/lc-gaming/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -661,4 +663,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/OweT1/lc-gaming/tree/main/0239-sliding-window-maximum/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/OweT1/lc-gaming/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
