@@ -6,7 +6,7 @@ class Solution:
         # first pass - split numbers and ops into a stack
         stack1 = []
         curr = ""
-        for c in s:
+        for c in s.strip():
             if is_op(c):
                 stack1.append(curr)
                 stack1.append(c)
