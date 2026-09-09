@@ -81,6 +81,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -130,6 +131,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0875-koko-eating-bananas](https://github.com/OweT1/lc-gaming/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
@@ -272,6 +274,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
@@ -655,10 +658,12 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/OweT1/lc-gaming/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/OweT1/lc-gaming/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
