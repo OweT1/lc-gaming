@@ -208,6 +208,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OweT1/lc-gaming/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/OweT1/lc-gaming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/OweT1/lc-gaming/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
@@ -425,6 +426,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/OweT1/lc-gaming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OweT1/lc-gaming/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
