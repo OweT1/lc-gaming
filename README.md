@@ -114,6 +114,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0198-house-robber](https://github.com/OweT1/lc-gaming/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/OweT1/lc-gaming/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -210,6 +211,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0075-sort-colors](https://github.com/OweT1/lc-gaming/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
@@ -221,6 +223,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/OweT1/lc-gaming/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -567,6 +570,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
@@ -626,6 +630,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -673,4 +678,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/OweT1/lc-gaming/tree/main/0062-unique-paths/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
