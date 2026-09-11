@@ -98,6 +98,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/OweT1/lc-gaming/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/OweT1/lc-gaming/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
@@ -419,6 +420,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0039-combination-sum](https://github.com/OweT1/lc-gaming/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/OweT1/lc-gaming/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/OweT1/lc-gaming/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
@@ -691,4 +693,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/OweT1/lc-gaming/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
