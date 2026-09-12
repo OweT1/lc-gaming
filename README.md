@@ -117,6 +117,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0239-sliding-window-maximum](https://github.com/OweT1/lc-gaming/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/OweT1/lc-gaming/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -278,6 +279,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/OweT1/lc-gaming/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -344,6 +346,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0155-min-stack](https://github.com/OweT1/lc-gaming/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/OweT1/lc-gaming/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/OweT1/lc-gaming/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/OweT1/lc-gaming/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -562,6 +565,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Data Stream
@@ -697,4 +701,12 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/OweT1/lc-gaming/tree/main/0051-n-queens/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
