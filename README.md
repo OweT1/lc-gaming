@@ -132,6 +132,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0835-image-overlap](https://github.com/OweT1/lc-gaming/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OweT1/lc-gaming/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
@@ -412,6 +413,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0835-image-overlap](https://github.com/OweT1/lc-gaming/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
