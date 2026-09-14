@@ -53,6 +53,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/OweT1/lc-gaming/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/OweT1/lc-gaming/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/OweT1/lc-gaming/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OweT1/lc-gaming/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OweT1/lc-gaming/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -455,6 +456,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/OweT1/lc-gaming/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/OweT1/lc-gaming/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Simulation
