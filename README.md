@@ -134,6 +134,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/OweT1/lc-gaming/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OweT1/lc-gaming/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0900-rle-iterator](https://github.com/OweT1/lc-gaming/tree/main/0900-rle-iterator/) | Medium |
@@ -375,6 +376,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [1462-course-schedule-iv](https://github.com/OweT1/lc-gaming/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -395,6 +397,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0743-network-delay-time](https://github.com/OweT1/lc-gaming/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1462-course-schedule-iv](https://github.com/OweT1/lc-gaming/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -406,6 +409,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
@@ -418,6 +422,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/OweT1/lc-gaming/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
