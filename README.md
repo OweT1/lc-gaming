@@ -81,6 +81,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -128,6 +129,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0540-single-element-in-a-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/OweT1/lc-gaming/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
@@ -580,6 +582,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OweT1/lc-gaming/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Data Stream
@@ -677,6 +680,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -719,6 +723,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
