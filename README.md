@@ -370,6 +370,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/OweT1/lc-gaming/tree/main/0210-course-schedule-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/OweT1/lc-gaming/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -553,6 +554,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -562,15 +564,18 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
