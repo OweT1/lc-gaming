@@ -381,6 +381,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/OweT1/lc-gaming/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1462-course-schedule-iv](https://github.com/OweT1/lc-gaming/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -559,6 +560,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/OweT1/lc-gaming/tree/main/0690-employee-importance/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/OweT1/lc-gaming/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -569,6 +571,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/OweT1/lc-gaming/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OweT1/lc-gaming/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
