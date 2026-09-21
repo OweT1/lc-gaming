@@ -135,6 +135,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0720-longest-word-in-dictionary](https://github.com/OweT1/lc-gaming/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0729-my-calendar-i](https://github.com/OweT1/lc-gaming/tree/main/0729-my-calendar-i/) | Medium |
+| [0739-daily-temperatures](https://github.com/OweT1/lc-gaming/tree/main/0739-daily-temperatures/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
@@ -469,6 +470,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/OweT1/lc-gaming/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/OweT1/lc-gaming/tree/main/0739-daily-temperatures/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/OweT1/lc-gaming/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -652,6 +654,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/OweT1/lc-gaming/tree/main/0739-daily-temperatures/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
