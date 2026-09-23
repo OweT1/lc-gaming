@@ -147,6 +147,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/OweT1/lc-gaming/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -409,6 +410,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/OweT1/lc-gaming/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1462-course-schedule-iv](https://github.com/OweT1/lc-gaming/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/OweT1/lc-gaming/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -435,6 +437,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0827-making-a-large-island](https://github.com/OweT1/lc-gaming/tree/main/0827-making-a-large-island/) | Hard |
 | [0835-image-overlap](https://github.com/OweT1/lc-gaming/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/OweT1/lc-gaming/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/OweT1/lc-gaming/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1937-maximum-number-of-points-with-cost](https://github.com/OweT1/lc-gaming/tree/main/1937-maximum-number-of-points-with-cost/) | Medium |
 ## Backtracking
