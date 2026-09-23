@@ -393,6 +393,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/OweT1/lc-gaming/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
@@ -560,6 +561,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/OweT1/lc-gaming/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -572,6 +574,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/OweT1/lc-gaming/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OweT1/lc-gaming/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
