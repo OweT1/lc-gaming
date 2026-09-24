@@ -111,6 +111,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/OweT1/lc-gaming/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OweT1/lc-gaming/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/OweT1/lc-gaming/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -371,6 +372,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0094-binary-tree-inorder-traversal](https://github.com/OweT1/lc-gaming/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/OweT1/lc-gaming/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
@@ -396,6 +398,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/OweT1/lc-gaming/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/OweT1/lc-gaming/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/OweT1/lc-gaming/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/OweT1/lc-gaming/tree/main/0207-course-schedule/) | Medium |
@@ -418,6 +421,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/OweT1/lc-gaming/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/OweT1/lc-gaming/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -429,6 +433,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/OweT1/lc-gaming/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/OweT1/lc-gaming/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/OweT1/lc-gaming/tree/main/0419-battleships-in-a-board/) | Medium |
