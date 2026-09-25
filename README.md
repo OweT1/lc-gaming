@@ -46,6 +46,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0227-basic-calculator-ii](https://github.com/OweT1/lc-gaming/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
 | [0539-minimum-time-difference](https://github.com/OweT1/lc-gaming/tree/main/0539-minimum-time-difference/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/OweT1/lc-gaming/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0721-accounts-merge](https://github.com/OweT1/lc-gaming/tree/main/0721-accounts-merge/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -82,6 +83,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0322-coin-change](https://github.com/OweT1/lc-gaming/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/OweT1/lc-gaming/tree/main/0542-01-matrix/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/OweT1/lc-gaming/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/OweT1/lc-gaming/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/OweT1/lc-gaming/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/OweT1/lc-gaming/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -345,6 +347,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -479,6 +482,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/OweT1/lc-gaming/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/OweT1/lc-gaming/tree/main/0739-daily-temperatures/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/OweT1/lc-gaming/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
@@ -759,4 +763,8 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/OweT1/lc-gaming/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
