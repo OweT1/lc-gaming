@@ -4,18 +4,16 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
 
-        colour_counter = Counter(nums)
-        red = colour_counter.get(0, 0)
-        white = colour_counter.get(1, 0) + red
-        blue = colour_counter.get(2, 0) + white
-
-        for i in range(len(nums)):
-            if i < red:
-                nums[i] = 0
-            elif i < white:
-                nums[i] = 1
-            else:
-                nums[i] = 2
-
+        l, m, r = 0, 0, len(nums)-1
+        while m <= r:
+            if nums[m] == 0:
+                nums[l], nums[m] = nums[m], nums[l]
+                l += 1
+                m += 1
+            elif nums[m] == 1:
+                m += 1
+            elif nums[m] == 2:
+                nums[m], nums[r] = nums[r], nums[m]
+                r -= 1
     
         
