@@ -73,6 +73,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0022-generate-parentheses](https://github.com/OweT1/lc-gaming/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/OweT1/lc-gaming/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/OweT1/lc-gaming/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/OweT1/lc-gaming/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/OweT1/lc-gaming/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OweT1/lc-gaming/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -109,6 +110,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0054-spiral-matrix](https://github.com/OweT1/lc-gaming/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/OweT1/lc-gaming/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/OweT1/lc-gaming/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/OweT1/lc-gaming/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OweT1/lc-gaming/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -441,6 +443,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/OweT1/lc-gaming/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/OweT1/lc-gaming/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/OweT1/lc-gaming/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/OweT1/lc-gaming/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/OweT1/lc-gaming/tree/main/0200-number-of-islands/) | Medium |
