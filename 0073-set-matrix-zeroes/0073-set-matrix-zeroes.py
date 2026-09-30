@@ -4,10 +4,17 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         m, n = len(matrix), len(matrix[0])
-        zeroes = [(r, c) for r in range(m) for c in range(n) if matrix[r][c] == 0]
 
-        for r, c in zeroes:
-            for i in range(n):
-                matrix[r][i] = 0
-            for j in range(m):
-                matrix[j][c] = 0        
+        rows, cols = set(), set()
+        for r in range(m):
+            for c in range(n):
+                if matrix[r][c] == 0:
+                    rows.add(r)
+                    cols.add(c)
+
+        for r in rows:
+            matrix[r] = [0]*n
+        
+        for c in cols:
+            for r in range(m):
+                matrix[r][c] = 0
