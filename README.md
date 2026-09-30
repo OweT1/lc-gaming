@@ -102,6 +102,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0011-container-with-most-water](https://github.com/OweT1/lc-gaming/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/OweT1/lc-gaming/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/OweT1/lc-gaming/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/OweT1/lc-gaming/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/OweT1/lc-gaming/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/OweT1/lc-gaming/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
@@ -190,6 +191,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OweT1/lc-gaming/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OweT1/lc-gaming/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/OweT1/lc-gaming/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/OweT1/lc-gaming/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/OweT1/lc-gaming/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/OweT1/lc-gaming/tree/main/0076-minimum-window-substring/) | Hard |
