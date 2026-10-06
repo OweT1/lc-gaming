@@ -164,6 +164,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OweT1/lc-gaming/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/OweT1/lc-gaming/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -285,6 +286,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1048-longest-string-chain](https://github.com/OweT1/lc-gaming/tree/main/1048-longest-string-chain/) | Medium |
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/OweT1/lc-gaming/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/OweT1/lc-gaming/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/OweT1/lc-gaming/tree/main/1387-sort-integers-by-the-power-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -326,6 +328,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0912-sort-an-array](https://github.com/OweT1/lc-gaming/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/OweT1/lc-gaming/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/OweT1/lc-gaming/tree/main/1094-car-pooling/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/OweT1/lc-gaming/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -364,6 +367,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0621-task-scheduler](https://github.com/OweT1/lc-gaming/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/OweT1/lc-gaming/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OweT1/lc-gaming/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/OweT1/lc-gaming/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/OweT1/lc-gaming/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/OweT1/lc-gaming/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OweT1/lc-gaming/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
