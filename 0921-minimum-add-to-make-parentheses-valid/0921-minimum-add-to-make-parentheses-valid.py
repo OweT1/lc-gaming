@@ -5,8 +5,6 @@ class Solution:
         for c in s:
             if c == '(': stack.append(c)
             else: # c is ')'
-                if stack and stack[-1] == '(':
-                    stack.pop()
-                else:
-                    res += 1
+                if stack and stack[-1] == '(': stack.pop()
+                else: res += 1
         return res + len(stack)
