@@ -179,6 +179,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/OweT1/lc-gaming/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OweT1/lc-gaming/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OweT1/lc-gaming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -263,6 +264,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0981-time-based-key-value-store](https://github.com/OweT1/lc-gaming/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/OweT1/lc-gaming/tree/main/1146-snapshot-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OweT1/lc-gaming/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/OweT1/lc-gaming/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OweT1/lc-gaming/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
@@ -293,6 +295,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/OweT1/lc-gaming/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OweT1/lc-gaming/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OweT1/lc-gaming/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OweT1/lc-gaming/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -332,6 +335,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OweT1/lc-gaming/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/OweT1/lc-gaming/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/OweT1/lc-gaming/tree/main/2034-stock-price-fluctuation/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OweT1/lc-gaming/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/OweT1/lc-gaming/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -374,6 +378,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/OweT1/lc-gaming/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/OweT1/lc-gaming/tree/main/2126-destroying-asteroids/) | Medium |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/OweT1/lc-gaming/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OweT1/lc-gaming/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
