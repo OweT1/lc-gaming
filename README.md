@@ -495,6 +495,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OweT1/lc-gaming/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/OweT1/lc-gaming/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/OweT1/lc-gaming/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/OweT1/lc-gaming/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -562,6 +563,7 @@ LeetCode profile can be found here: https://leetcode.com/u/owet1/.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/OweT1/lc-gaming/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/OweT1/lc-gaming/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/OweT1/lc-gaming/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/OweT1/lc-gaming/tree/main/0394-decode-string/) | Medium |
 ## Graph Theory
